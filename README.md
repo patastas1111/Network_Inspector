@@ -4,6 +4,8 @@ NetScan Pro is a powerful network management tool designed to streamline the pro
 
 **Compatibility:**
 - This code is compatible with Linux operating systems only.
+- It Only Support VSOL, Guangda.
+- It support Richerlink but Alpha.
 
 ## Getting Started
 
