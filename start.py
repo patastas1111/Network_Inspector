@@ -14,7 +14,7 @@ from checkconnection import icmp
 
 os.system("clear")
 data_search = input("Search: ").strip()
-areas_input = input("Enter comma-separated areas to search (e.g. R12, R11) or type 'all' to search all areas: ").strip()
+areas_input = input("Enter comma-separated areas to search (e.g. datacenter1, datacenter2) or type 'all' to search all areas: ").strip()
 
 filename = "iplist.txt"
 devices = []
