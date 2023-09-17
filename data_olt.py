@@ -1,3 +1,9 @@
+"""
+Network Inspector
+by patastas1111
+
+"""
+
 import os.path
 import socket
 import telnetlib
