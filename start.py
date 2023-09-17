@@ -1,6 +1,6 @@
 """
 Network Inspector
-by Charlie Chavez
+by patastas1111
 
 """
 
