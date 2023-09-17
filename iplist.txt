@@ -1,0 +1,2 @@
+10.0.0.2 :: guangda :: datacenter1
+10.0.0.3 :: vsol :: datacenter2
